@@ -1,0 +1,48 @@
+﻿.nav {
+	@extend .white;
+}
+
+.minHeight {
+	min-height: 700px;
+}
+
+.mainForm {
+	margin-top:20px; 
+	color:black;
+}
+
+.modal {
+	color:black;
+}
+
+.mainForm form {
+	margin-left:20px; 
+	margin-right: 20px;
+}
+
+.mainForm h4 {
+	margin-left:20px;
+	padding-top:20px
+}
+
+.mainForm button {
+	margin-bottom:20px;
+}
+
+.dataTableForm {
+	margin-top:20px; 
+}
+
+.dataTableForm h4 {
+	margin-left:20px;
+	padding-top:20px
+}
+
+.dataTableForm button {
+	margin-bottom:20px;
+	margin-right:20px;
+}
+
+.dataTableForm .dataTableButtonCol{
+	margin-top:-45px;
+}
